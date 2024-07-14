@@ -1,0 +1,1 @@
+# ritchey_personal_use_only_license
