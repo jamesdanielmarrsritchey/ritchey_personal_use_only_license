@@ -1,12 +1,13 @@
 Name: Ritchey Personal Use Only License
-Version: 2
-Long Identifier: Ritchey Personal Use Only License v2
-Short Identifier: RPUOv2
+Version: 3
+Long Identifier: Ritchey Personal Use Only License v3
+Short Identifier: RPUOv3
 Description: A personal use only license.
 History:
  - Version 1 completed.
  - Version 2 completed July 14, 2024.
+ - Version 3 completed July 15, 2024.
 Author:James Daniel Marrs Ritchey
-Licensing: This project is hereby licensed under the terms of the Ritchey Personal Use Only License v2 license.
+Licensing: This project is hereby licensed under the Ritchey Personal Use Only License v3 license.
 Notes:
 - 
